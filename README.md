@@ -45,6 +45,7 @@ The datasets involved in this project are as follows.
 ## Results
 
 https://github.com/JeffreyPrasetio/DSI-23-Capstone-Project/blob/main/visuals/sentiment%20distribution.png
+
 Overall, most tweets on the Pfizer/BioNtech vaccine had neutral sentiment, followed by positive and lastly negative.
 
 In the positive tweets, people mainly talked about their experiences on taking the vaccine, the FDA approval, and the Johnson & Johnson vaccine.
