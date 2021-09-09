@@ -44,7 +44,14 @@ The datasets involved in this project are as follows.
 
 ## Results
 
-x
+https://github.com/JeffreyPrasetio/DSI-23-Capstone-Project/blob/main/visuals/sentiment%20distribution.png
+Overall, most tweets on the Pfizer/BioNtech vaccine had neutral sentiment, followed by positive and lastly negative.
+
+In the positive tweets, people mainly talked about their experiences on taking the vaccine, the FDA approval, and the Johnson & Johnson vaccine.
+
+In the negative tweets, people talked about the Astra Zeneca vaccine, death cases, and vaccine failures.
+
+Lastly, in the neutral tweets, people talked had general discussions on COVID-19 vaccines, getting vaccinated, and comparisons between the different vaccines.
 
 ## Conclusions & Recommendations
 
@@ -64,5 +71,5 @@ Having performed sentiment analysis and topic modelling, I am somewhat satisfied
 
 COVID-19 is very relevant to everyone and it is very easy to determine if the interpretation from the data makes sense - we just have to cross reference the news, if it adds up then it's all good.
 
-However, in terms of business applications, I was rather disappointed as there wasn't any ground-breaking findings. It made me realize that doing this project on a global scale made it less actionable. When it comes to interventions to speed up vaccination progress, it's very crucial to tackle it from a domestic angle. Every country comes with its own unique sets of problems and regulations, and without considering those, it became very difficult to come up with concrete recommendations.
+However, in terms of business applications, I was rather disappointed as there wasn't any ground-breaking findings. It made me realize that doing this project on a global scale made it less actionable. When it comes to interventions to speed up vaccination progress, it's more realistic to tackle it from a domestic angle. Every country comes with its own unique sets of problems and regulations, and without considering those, it became very difficult to come up with concrete recommendations.
 
