@@ -54,6 +54,8 @@ In the negative tweets, people talked about the Astra Zeneca vaccine, death case
 
 Lastly, in the neutral tweets, people talked had general discussions on COVID-19 vaccines, getting vaccinated, and comparisons between the different vaccines.
 
+NOTE: Refer to the html files in the visuals folder for interactive plots generated from topic modelling.
+
 ## Conclusions & Recommendations
 
 From the uncovered results, we can identify potential interventions for Pfizer/BioNtech to take in order to speed up the global vaccination progress (and also drive revenue by increasing their vaccine sales).
