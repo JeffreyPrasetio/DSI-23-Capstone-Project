@@ -44,7 +44,7 @@ The datasets involved in this project are as follows.
 
 ## Results
 
-![sentiment_distribution.png](../images/sentiment_distribution.png)
+![sentiment_distribution.png](../visuals/sentiment_distribution.png)
 
 Overall, most tweets on the Pfizer/BioNtech vaccine had neutral sentiment, followed by positive and lastly negative.
 
