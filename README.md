@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project served as my Capstone Project for the Data Science Immersive course at [General Assembly]9(https://generalassemb.ly/).
+This project served as my Capstone Project for the Data Science Immersive course at [General Assembly](https://generalassemb.ly/).
 
 [COVID-19 is the disease caused by a new coronavirus called SARS-CoV-2](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19). The novel virus was first identified in Wuhan, China, in December 2019; it spread to other parts of mainland China and eventually around the world. The World Health Organization (WHO) declared a Public Health Emergency of International Concern on 30 January 2020, and a pandemic on 11 March 2020. 
 
