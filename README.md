@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This project served as my Capstone Project for the Data Science Immersive course at [General Assembly]9(https://generalassemb.ly/).
+
 [COVID-19 is the disease caused by a new coronavirus called SARS-CoV-2](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19). The novel virus was first identified in Wuhan, China, in December 2019; it spread to other parts of mainland China and eventually around the world. The World Health Organization (WHO) declared a Public Health Emergency of International Concern on 30 January 2020, and a pandemic on 11 March 2020. 
 
 Since 2021, variants of the virus have emerged or become dominant in many countries, with the Delta, Alpha and Beta variants being the most virulent. As of 31 August 2021, more than 217 million cases and 4.51 million deaths have been confirmed, making it one of the deadliest pandemics in history. 
@@ -70,9 +72,7 @@ From the uncovered results, we can identify potential interventions for Pfizer/B
 
 I started this project to identify the countries where people felt mostly positive or negative towards the Pfizer/BioNtech vaccine. That way, Pfizer/BioNtech would know which countries to target or avoid. Unfortunately, the sentiment distribution within each country was typically evenly spread out - there is no obvious recommendation that can be made in this regard.
 
-Having performed sentiment analysis and topic modelling, I am somewhat satisfied with the results, as the stories derived from both techniques not only complement each other, but also line up with reality.
-
-COVID-19 is very relevant to everyone and it is very easy to determine if the interpretation from the data makes sense - we just have to cross reference the news, if it adds up then it's all good.
+Having performed sentiment analysis and topic modelling, I am somewhat satisfied with the results, as the stories derived from both techniques not only complement each other, but also line up with reality. COVID-19 is very relevant to everyone and it is very easy to determine if the interpretation from the data makes sense - we just have to cross reference the news, if it adds up then it's all good.
 
 However, in terms of business applications, I was rather disappointed as there wasn't any ground-breaking findings. It made me realize that doing this project on a global scale made it less actionable. When it comes to interventions to speed up vaccination progress, it's more realistic to tackle it from a domestic angle. Every country comes with its own unique sets of problems and regulations, and without considering those, it became very difficult to come up with concrete recommendations.
 
