@@ -24,8 +24,8 @@ The datasets involved in this project are as follows.
 
 |Dataset|Description|
 |:---|:---|
-|[`vaccination_all_tweets.csv`](../assets/vaccination_all_tweets.csv)|The original dataset retrieved from [Kaggle](https://www.kaggle.com/gpreda/all-covid19-vaccines-tweets/metadata) (version 90), containing tweets about all COVID-19 vaccines.| 
-|[`pfizer_tweets.csv`](../assets/pfizer_tweets.csv)|Dataset containing tweets about the Pfizer vaccine, after performing sentiment analysis.| 
+|[`vaccination_all_tweets.csv`](https://github.com/JeffreyPrasetio/DSI-23-Capstone-Project/blob/main/data/vaccination_all_tweets.csv)|The original dataset retrieved from [Kaggle](https://www.kaggle.com/gpreda/all-covid19-vaccines-tweets/metadata) (version 90), containing tweets about all COVID-19 vaccines.| 
+|[`pfizer_tweets.csv`](https://github.com/JeffreyPrasetio/DSI-23-Capstone-Project/blob/main/data/pfizer_tweets.csv)|Dataset containing tweets about the Pfizer vaccine, after performing sentiment analysis.| 
 
 |Feature|Type|Description|
 |:---|:---:|:---|
