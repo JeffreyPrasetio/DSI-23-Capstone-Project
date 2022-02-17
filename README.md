@@ -54,7 +54,7 @@ In the positive tweets, people mainly talked about their experiences on taking t
 
 In the negative tweets, people talked about the Astra Zeneca vaccine, death cases, and vaccine failures.
 
-Lastly, in the neutral tweets, people talked had general discussions on COVID-19 vaccines, getting vaccinated, and comparisons between the different vaccines.
+Lastly, in the neutral tweets, people had general discussions on COVID-19 vaccines, getting vaccinated, and comparisons between the different vaccines.
 
 NOTE: Refer to the html files in the visuals folder for interactive plots generated from topic modelling.
 
